@@ -32,8 +32,7 @@ Google hacking, also known as Google dorking, is a technique that involves using
 
 site: This operator allows you to search for pages that are within a specific website or domain. For example, "site:example.com" would search for pages that are on the example.com domain.
 Following searches for all the sites that is in the domain yahoo.com
-```
-output
+
 <img width="870" height="566" alt="image" src="https://github.com/user-attachments/assets/595b7796-0ca6-4ae8-a2cf-94e8f6428598" />
 
 
